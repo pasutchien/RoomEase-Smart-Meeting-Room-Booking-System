@@ -29,4 +29,4 @@ RoomEase is an intuitive and efficient web platform designed to streamline the p
 - Enable businesses and individuals to find cost-effective meeting spaces with ease  
 - Provide a robust management system for venue owners to list and maintain their spaces  
 
-Would you like me to expand on any section or modify it based on specific requirements?
+![Capture2](images/Capture2.png)
