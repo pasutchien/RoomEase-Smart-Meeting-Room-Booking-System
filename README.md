@@ -32,4 +32,4 @@ RoomEase is an intuitive and efficient web platform designed to streamline the p
 ![Capture2](images/Capture2.PNG)
 
 ## **Smart Chatbot System**
-![chatbot](images/chatbot.PNG)
+![Chatbot](images/Chatbot.png)
