@@ -30,3 +30,6 @@ RoomEase is an intuitive and efficient web platform designed to streamline the p
 - Provide a robust management system for venue owners to list and maintain their spaces  
 
 ![Capture2](images/Capture2.PNG)
+
+## **Smart Chatbot System**
+![chatbot](images/chatbot.PNG)
